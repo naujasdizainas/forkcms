@@ -12,6 +12,7 @@
         <translation language="fr"><![CDATA[ajouter une page]]></translation>
         <translation language="hu"><![CDATA[oldal hozzáadása]]></translation>
         <translation language="es"><![CDATA[agregar página]]></translation>
+		<translation language="lt"><![CDATA[sukurti puslapį]]></translation>
       </item>
       <item type="label" name="ChangeTemplate">
         <translation language="nl"><![CDATA[Wijzig template]]></translation>
@@ -23,6 +24,7 @@
         <translation language="fr"><![CDATA[changer de template]]></translation>
         <translation language="hu"><![CDATA[Sablon váltás]]></translation>
         <translation language="es"><![CDATA[Cambiar template]]></translation>
+		<translation language="lt"><![CDATA[keisti šabloną]]></translation>
       </item>
       <item type="label" name="DeleteBlock">
         <translation language="nl"><![CDATA[blok verwijderen]]></translation>
@@ -34,6 +36,7 @@
         <translation language="fr"><![CDATA[effacer le bloc]]></translation>
         <translation language="hu"><![CDATA[blokk törlése]]></translation>
         <translation language="es"><![CDATA[eliminar bloque]]></translation>
+		<translation language="lt"><![CDATA[ištrinti bloką]]></translation>
       </item>
       <item type="label" name="EditModuleContent">
         <translation language="nl"><![CDATA[wijzig module inhoud]]></translation>
@@ -45,6 +48,7 @@
         <translation language="fr"><![CDATA[éditer le contenu du module]]></translation>
         <translation language="hu"><![CDATA[modul tartalom szerkesztése]]></translation>
         <translation language="es"><![CDATA[editar contenido de módulo]]></translation>
+		<translation language="lt"><![CDATA[keisti modulio turinį]]></translation>
       </item>
       <item type="label" name="ExternalLink">
         <translation language="nl"><![CDATA[externe link]]></translation>
@@ -56,6 +60,7 @@
         <translation language="fr"><![CDATA[liens externe]]></translation>
         <translation language="hu"><![CDATA[external link]]></translation>
         <translation language="es"><![CDATA[enlace externo]]></translation>
+		<translation language="lt"><![CDATA[išorinė nuoroda]]></translation>
       </item>
       <item type="label" name="ExtraTypeBlock">
         <translation language="nl"><![CDATA[module]]></translation>
@@ -67,6 +72,7 @@
         <translation language="fr"><![CDATA[module]]></translation>
         <translation language="hu"><![CDATA[modul]]></translation>
         <translation language="es"><![CDATA[módulo]]></translation>
+		<translation language="lt"><![CDATA[modulis]]></translation>
       </item>
       <item type="label" name="ExtraTypeWidget">
         <translation language="nl"><![CDATA[widget]]></translation>
@@ -78,6 +84,7 @@
         <translation language="fr"><![CDATA[widget]]></translation>
         <translation language="hu"><![CDATA[widget]]></translation>
         <translation language="es"><![CDATA[widget]]></translation>
+		<translation language="lt"><![CDATA[valdiklis]]></translation>
       </item>
       <item type="label" name="Fallback">
         <translation language="nl"><![CDATA[Niet-toegewezen blokken]]></translation>
@@ -89,6 +96,7 @@
         <translation language="fr"><![CDATA[blocs non assignés]]></translation>
         <translation language="hu"><![CDATA[Unassigned blocks]]></translation>
         <translation language="es"><![CDATA[Bloques sin asginar]]></translation>
+		<translation language="lt"><![CDATA[nepriskirti blokai]]></translation>
       </item>
       <item type="label" name="Footer">
         <translation language="nl"><![CDATA[footer navigatie]]></translation>
@@ -100,6 +108,7 @@
         <translation language="fr"><![CDATA[navigation de pied de page]]></translation>
         <translation language="hu"><![CDATA[footer navigáció]]></translation>
         <translation language="es"><![CDATA[navegación de pie de página]]></translation>
+		<translation language="lt"><![CDATA[apačios navigacija]]></translation>
       </item>
       <item type="label" name="InternalLink">
         <translation language="nl"><![CDATA[interne link]]></translation>
@@ -111,6 +120,7 @@
         <translation language="fr"><![CDATA[lien interne]]></translation>
         <translation language="hu"><![CDATA[internal link]]></translation>
         <translation language="es"><![CDATA[enlace interno]]></translation>
+		<translation language="lt"><![CDATA[vidinės nuorodos]]></translation>
       </item>
       <item type="label" name="MainNavigation">
         <translation language="nl"><![CDATA[hoofdnavigatie]]></translation>
@@ -122,6 +132,7 @@
         <translation language="fr"><![CDATA[navigation principale]]></translation>
         <translation language="hu"><![CDATA[main navigáció]]></translation>
         <translation language="es"><![CDATA[navegación principal]]></translation>
+		<translation language="lt"><![CDATA[pagrindinė navigacija]]></translation>
       </item>
       <item type="label" name="Meta">
         <translation language="nl"><![CDATA[metanavigatie]]></translation>
@@ -133,6 +144,7 @@
         <translation language="fr"><![CDATA[meta navigation]]></translation>
         <translation language="hu"><![CDATA[meta navigáció]]></translation>
         <translation language="es"><![CDATA[meta navegación]]></translation>
+		<translation language="lt"><![CDATA[meta navigacija]]></translation>
       </item>
       <item type="label" name="Redirect">
         <translation language="nl"><![CDATA[redirect]]></translation>
@@ -144,6 +156,7 @@
         <translation language="fr"><![CDATA[rediriger]]></translation>
         <translation language="hu"><![CDATA[átirányítás]]></translation>
         <translation language="es"><![CDATA[redirección]]></translation>
+		<translation language="lt"><![CDATA[nukreipti]]></translation>
       </item>
       <item type="label" name="Root">
         <translation language="nl"><![CDATA[losse pagina's]]></translation>
@@ -155,6 +168,7 @@
         <translation language="fr"><![CDATA[pages uniques]]></translation>
         <translation language="hu"><![CDATA[egy oldal]]></translation>
         <translation language="es"><![CDATA[páginas solas]]></translation>
+		<translation language="lt"><![CDATA[atskiri puslapiai]]></translation>
       </item>
       <item type="label" name="SentMailings">
         <translation language="en"><![CDATA[sent mailings]]></translation>
@@ -166,6 +180,7 @@
         <translation language="fr"><![CDATA[mailings envoyés]]></translation>
         <translation language="hu"><![CDATA[küldött levelek]]></translation>
         <translation language="es"><![CDATA[envios enviados]]></translation>
+		<translation language="lt"><![CDATA[išsiųsti laiškai]]></translation>
       </item>
       <item type="label" name="SubscribeForm">
         <translation language="en"><![CDATA[subscribe form]]></translation>
@@ -177,6 +192,7 @@
         <translation language="fr"><![CDATA[formulaire d'abonnement]]></translation>
         <translation language="hu"><![CDATA[feliratkozó űrlap]]></translation>
         <translation language="es"><![CDATA[formulario de subscripción]]></translation>
+		<translation language="lt"><![CDATA[prenumeratos forma]]></translation>
       </item>
       <item type="label" name="UnsubscribeForm">
         <translation language="en"><![CDATA[unsubscribe form]]></translation>
@@ -188,6 +204,7 @@
         <translation language="fr"><![CDATA[formulaire de désabonnement]]></translation>
         <translation language="hu"><![CDATA[leiratkozó űrlap]]></translation>
         <translation language="es"><![CDATA[formulario de baja]]></translation>
+		<translation language="lt"><![CDATA[nutraukti prenumeratą forma]]></translation>
       </item>
       <item type="message" name="Added">
         <translation language="nl"><![CDATA[De pagina "%1$s" werd toegevoegd.]]></translation>
@@ -199,26 +216,31 @@
         <translation language="fr"><![CDATA[La page "%1$s" a été ajoutée.]]></translation>
         <translation language="hu"><![CDATA[A(z) "%1$s" oldal hozzáadva.]]></translation>
         <translation language="es"><![CDATA[la página "%1$s" fue agregada.]]></translation>
+		<translation language="lt"><![CDATA[Puslapis "%1$s" sukurtas.]]></translation>
       </item>
       <item type="message" name="AllowChildren">
         <translation language="nl"><![CDATA[Deze pagina mag subpagina's bevatten.]]></translation>
         <translation language="en"><![CDATA[This page can have subpages.]]></translation>
         <translation language="de"><![CDATA[Diese Seite kann Unterseiten haben.]]></translation>
+		<translation language="lt"><![CDATA[Šis puslapis gali turėti puslapių medį.]]></translation>
       </item>
       <item type="message" name="AllowDelete">
         <translation language="nl"><![CDATA[Deze pagina mag verwijderd worden.]]></translation>
         <translation language="en"><![CDATA[This page can be deleted.]]></translation>
         <translation language="de"><![CDATA[Diese Seite kann gelöscht werden.]]></translation>
+		<translation language="lt"><![CDATA[Šis puslapis gali būti ištrintas.]]></translation>
       </item>
       <item type="message" name="AllowEdit">
         <translation language="nl"><![CDATA[Deze pagina mag bewerkt worden.]]></translation>
         <translation language="en"><![CDATA[This page can be edited.]]></translation>
         <translation language="de"><![CDATA[Diese Seite kann bearbeitet werden.]]></translation>
+		<translation language="lt"><![CDATA[Šis puslapis gali būti redaguojamas.]]></translation>
       </item>
       <item type="message" name="AllowMove">
         <translation language="nl"><![CDATA[Deze pagina mag verplaatst worden naar een andere positie.]]></translation>
         <translation language="en"><![CDATA[The position of this page can be changed.]]></translation>
         <translation language="de"><![CDATA[Die Position dieser Seite kann geändert werden.]]></translation>
+		<translation language="lt"><![CDATA[Šio puslapio pozicija gali būti pakeista.]]></translation>
       </item>
       <item type="message" name="BlockAttached">
         <translation language="nl"><![CDATA[De module <strong>%1$s</strong> is gekoppeld aan deze sectie.]]></translation>
@@ -230,6 +252,7 @@
         <translation language="fr"><![CDATA[Le module <strong>%1$s</strong> est rattaché à cette section.]]></translation>
         <translation language="hu"><![CDATA[A(z) <strong>%1$s</strong> modul csatolva a szekcióhoz.]]></translation>
         <translation language="es"><![CDATA[El módulo <strong>%1$s</strong> se adjunta a esta sección.]]></translation>
+		<translation language="lt"><![CDATA[Modulis <strong>%1$s</strong> priskirtas.]]></translation>
       </item>
       <item type="message" name="ConfirmDelete">
         <translation language="nl"><![CDATA[Ben je zeker dat je de pagina "%1$s" wil verwijderen?]]></translation>
@@ -241,6 +264,7 @@
         <translation language="fr"><![CDATA[Etes-vous sûr de vouloir effacer la page "%1$s"?]]></translation>
         <translation language="hu"><![CDATA[Biztos törlöd a(z) "%1$s" oldalt?]]></translation>
         <translation language="es"><![CDATA[¿Estás seguro de que quieres eliminar la página "%1$s"?]]></translation>
+		<translation language="lt"><![CDATA[Ar tikrai norite ištrinti šį puslapį "%1$s"?]]></translation>
       </item>
       <item type="message" name="ConfirmDeleteBlock">
         <translation language="nl"><![CDATA[Ben je zeker dat je deze block wil verwijderen?]]></translation>
@@ -252,6 +276,7 @@
         <translation language="fr"><![CDATA[Etes-vous sûr de vouloir effacer ce bloc?]]></translation>
         <translation language="hu"><![CDATA[Biztos törlöd ezt a blokkot?]]></translation>
         <translation language="es"><![CDATA[¿Estás seguro de que quieres eliminar este bloque?]]></translation>
+		<translation language="lt"><![CDATA[Ar tikrai norite trinti šį bloką?]]></translation>
       </item>
       <item type="message" name="ContentSaveWarning">
         <translation language="nl"><![CDATA[<p><strong>Belangrijk:</strong> De inhoud wordt pas aangepast nadat de pagina wordt opgeslagen.</p>]]></translation>
@@ -263,6 +288,7 @@
         <translation language="fr"><![CDATA[<p><strong>Important:</strong> Ce contenu ne sera pas mis à jour avant l'enregistrement de la page.</p>]]></translation>
         <translation language="hu"><![CDATA[<p><strong>Fontos:</strong> Ez a tartalom nem frissül, míg az oldalt nem mentetted.</p>]]></translation>
         <translation language="es"><![CDATA[<p><strong>Importante:</strong> Este contenido no sera actualizado antes de que la página no sea guardada.</p>]]></translation>
+		<translation language="lt"><![CDATA[<p><strong>Svarbu:</strong> Šis turinys nebus atnaujintas, jei neišsaugosite puslapį.</p>]]></translation>
       </item>
       <item type="message" name="Deleted">
         <translation language="nl"><![CDATA[De pagina "%1$s" werd verwijderd.]]></translation>
@@ -274,6 +300,7 @@
         <translation language="fr"><![CDATA[La page "%1$s" a été effacée.]]></translation>
         <translation language="hu"><![CDATA[A(z) "%1$s" oldal törölve.]]></translation>
         <translation language="es"><![CDATA[La página "%1$s" ha sido eliminada.]]></translation>
+		<translation language="lt"><![CDATA[Puslapis "%1$s" ištrintas.]]></translation>
       </item>
       <item type="message" name="Edited">
         <translation language="nl"><![CDATA[De pagina "%1$s" werd opgeslagen.]]></translation>
@@ -285,6 +312,7 @@
         <translation language="fr"><![CDATA[La page "%1$s" a été enregistrée.]]></translation>
         <translation language="hu"><![CDATA[A(z) "%1$s" oldal elmentve.]]></translation>
         <translation language="es"><![CDATA[La página "%1$s" ha sido guardada.]]></translation>
+		<translation language="lt"><![CDATA[Puslapis "%1$s" išsaugotas.]]></translation>
       </item>
       <item type="message" name="FallbackInfo">
         <translation language="nl"><![CDATA[<p><strong>Niet elk blok kon automatisch worden toegewezen aan een positie.</strong></p><p>Blokken die toegevoegd werden op posities die in deze template niet beschikbaar zijn worden hier weergegeven. Standaard-blokken uit de vorige template die niet voorkomen in de huidige template worden ook hier getoond.<br />Je kan deze eenvoudig verslepen naar de gewenste positie.</p><p>Deze blokken zullen vervallen bij het opslaan van de pagina of het kiezen van een andere template.</p>]]></translation>
@@ -295,6 +323,7 @@
         <translation language="fr"><![CDATA[<p><strong>Tous les blocs ne sont pas automatiquement assignés à une position.</strong></p><p>Les blocs qui ont été assignés à des positions non disponibles dans ce template ne sont pas affichés ici. Les blocs par défaut du template précédent qui ne sont pas affichés ici sont aussi affichés ici.<br /> Vous pouvez facilement les déplacer vers la position désirée.</p><p>Ces blocs apparaitront après avoir enregistré la page ou choisi un autre template.</p>]]></translation>
         <translation language="de"><![CDATA[<p><strong>Nicht jeder Block konnte automatisch einer Position zugewiesen werden.</strong></p><p>Blöcke, die Positionen zugeordnet waren, die in diesem Template nicht mehr existieren, werden hier gezeigt. Standardblöcke vom vorherigen Template, die in diesem Template nicht vorhanden sind werden auch hier gezeigt.<br /> Du kannst sie einfach an die gewünschte Position ziehen.</p><p>Diese Blöcke werden nach dem Speichern der Seite oder beim Auswählen eines anderen Temples verschwinden.</p>]]></translation>
         <translation language="hu"><![CDATA[<p><strong>Nem minden blokk adható hozzá autómatikusan az adott pozícióhoz.</strong></p><p>A hozzáadott blokk nem érhető el a sablonban, ez látható. Az előző sablon alapértelmezett blokkjai nem jelennek meg a mostani sablonban.<br />Ezeket könnyen a kívánt helyre húzhatod.</p><p>Ezek a blokkok mentés után vagy másik sablon választáskor elünnek.</p>]]></translation>
+		<translation language="lt"><![CDATA[<p><strong>Ne kiekvienas blokas gali būti automatiškai priskirtas prie pozicijos.</strong></p><p>Čia parodyti paslėpti blokai priskirti prie pozicijos. Buvę blokai, kurie neprieinami iš ankstesnės šablono versijos taip pat parodyti čia.<br />Jus galite keisti blokų pozicijas tieiog pele pernešdami juos.</p><p>Šie blokai dings po išsaugojimo arba pasirinkus kitą šabloną</p>]]></translation>
       </item>
       <item type="message" name="HelpBlockContent">
         <translation language="nl"><![CDATA[Welk soort inhoud wil je hier tonen?]]></translation>
@@ -306,6 +335,7 @@
         <translation language="fr"><![CDATA[Quel type de contenu souhaitez-vous afficher ici ?]]></translation>
         <translation language="hu"><![CDATA[Milyen tartalmat szeretnél ide?]]></translation>
         <translation language="es"><![CDATA[¿Qué tipo de contenido desea mostrar aquí?]]></translation>
+		<translation language="lt"><![CDATA[Kokio tipo turinys bus čia rodomas?]]></translation>
       </item>
       <item type="message" name="HelpExternalRedirect">
         <translation language="nl"><![CDATA[Hiermee kan je een item in het menu laten doorverwijzen naar een externe website.]]></translation>
@@ -317,6 +347,7 @@
         <translation language="fr"><![CDATA[Utilisez ceci si vous souhaitez lier un élément de menu à un site externe.]]></translation>
         <translation language="hu"><![CDATA[Használd ezt, ha a menü-elemet külső linkre akarod átirányítani.]]></translation>
         <translation language="es"><![CDATA[Ua esto si tienes que redirigir un elemento del menú al un sitio web externo.]]></translation>
+		<translation language="lt"><![CDATA[Naudoti, jei reikia nukreipti meniu elementą į išorės svetainę.]]></translation>
       </item>
       <item type="message" name="HelpInternalRedirect">
         <translation language="nl"><![CDATA[Hiermee kan je een item in het menu laten doorverwijzen naar een andere pagina binnen de website.]]></translation>
@@ -328,6 +359,7 @@
         <translation language="fr"><![CDATA[Utilisez ceci si vous avez besoin de rediriger un élément de menu vers une autre page du site.]]></translation>
         <translation language="hu"><![CDATA[Használd ezt, ha a menü-elemet ezen az oldalon akarod másik lapra átirányítani.]]></translation>
         <translation language="es"><![CDATA[Usa esto si tienes que redirigir un elemento de menú a otra página en este sitio web.]]></translation>
+		 <translation language="lt"><![CDATA[Naudoti, jei reikia nukreipti meniu elementą į svetainę.]]></translation>
       </item>
       <item type="message" name="HelpMetaNavigation">
         <translation language="nl"><![CDATA[Extra topnavigatie die (boven het hoofdmenu) op elke pagina staat.]]></translation>
@@ -339,6 +371,7 @@
         <translation language="fr"><![CDATA[Navigation en extra en haut de page (à côté, en dessous du menu) sur chaque page.]]></translation>
         <translation language="hu"><![CDATA[Extra topnavigation (fenti/lenti menüben) minden oldalon.]]></translation>
         <translation language="es"><![CDATA[Navegación superior extra (encima/debajo del menú) en cada página.]]></translation>
+		 <translation language="lt"><![CDATA[Papildoma viršaus navigacija (meniu virš/žemiau) kiekviename puslapyje.]]></translation>
       </item>
       <item type="message" name="HelpNavigationTitle">
         <translation language="nl"><![CDATA[De titel die in het menu getoond wordt.]]></translation>
@@ -350,6 +383,7 @@
         <translation language="fr"><![CDATA[Le titre affiché dans le menu.]]></translation>
         <translation language="hu"><![CDATA[A cím, amely megjelenik a menüben.]]></translation>
         <translation language="es"><![CDATA[El título que se muestra en el menú.]]></translation>
+		<translation language="lt"><![CDATA[Meniu antraštė.]]></translation>
       </item>
       <item type="message" name="HomeNoBlock">
         <translation language="nl"><![CDATA[Er kan geen module gekoppeld worden aan de home-pagina.]]></translation>
@@ -361,6 +395,7 @@
         <translation language="fr"><![CDATA[Un module ne peut pas être relié à la homepage]]></translation>
         <translation language="hu"><![CDATA[A modul nem kapcsolódik a honlaphoz.]]></translation>
         <translation language="es"><![CDATA[Un módulo no puede ser vinculado a la página principal.]]></translation>
+		<translation language="lt"><![CDATA[Modulio negalima priskirti pagrindiniam puslapiui.]]></translation>
       </item>
       <item type="message" name="IsAction">
         <translation language="nl"><![CDATA[Gebruik deze pagina als module-actie.]]></translation>
@@ -372,6 +407,7 @@
         <translation language="fr"><![CDATA[Utiliser cette page comme action de module.]]></translation>
         <translation language="hu"><![CDATA[Használd az oldalt modulként.]]></translation>
         <translation language="es"><![CDATA[Usar está página como acción del módulo.]]></translation>
+		<translation language="lt"><![CDATA[Naudotį puslapį kaip modulio puslapį.]]></translation>
       </item>
       <item type="message" name="MetaNavigation">
         <translation language="nl"><![CDATA[Metanavigatie inschakelen voor deze website.]]></translation>
@@ -383,6 +419,7 @@
         <translation language="fr"><![CDATA[Activer la navigation meta pour ce site.]]></translation>
         <translation language="hu"><![CDATA[A metanavigation engedélyezése az oldalon.]]></translation>
         <translation language="es"><![CDATA[activar meta navegación para este sitio web.]]></translation>
+		<translation language="lt"><![CDATA[Įjungti metą navigaciją šiam tinklapiui.]]></translation>
       </item>
       <item type="message" name="ModuleBlockAlreadyLinked">
         <translation language="nl"><![CDATA[Er werd reeds een module gekoppeld aan deze pagina.]]></translation>
@@ -394,6 +431,7 @@
         <translation language="fr"><![CDATA[Un module a déjà été relié à cette page.]]></translation>
         <translation language="hu"><![CDATA[A modul már kapcsolódik az oldalhoz.]]></translation>
         <translation language="es"><![CDATA[Un módulo ya ha sido vinculado a esta página.]]></translation>
+		<translation language="lt"><![CDATA[Modulis jau priskirtas šiam puslapiui.]]></translation>
       </item>
       <item type="message" name="PageIsMoved">
         <translation language="nl"><![CDATA[De pagina "%1$s" werd verplaatst.]]></translation>
@@ -405,6 +443,7 @@
         <translation language="fr"><![CDATA[La page  "%1$s" a été déplacée.]]></translation>
         <translation language="hu"><![CDATA[A(z) "%1$s" oldal áthelyezve.]]></translation>
         <translation language="es"><![CDATA[La página "%1$s" ha sido movida.]]></translation>
+		<translation language="lt"><![CDATA[Puslapis "%1$s" perkeltas.]]></translation>
       </item>
       <item type="message" name="RichText">
         <translation language="nl"><![CDATA[Editor]]></translation>
@@ -416,6 +455,7 @@
         <translation language="de"><![CDATA[Editor]]></translation>
         <translation language="hu"><![CDATA[Szerkesztő]]></translation>
         <translation language="es"><![CDATA[Editor]]></translation>
+		<translation language="lt"><![CDATA[Redagavimo programa]]></translation>
       </item>
       <item type="message" name="TemplateChangeWarning">
         <translation language="nl"><![CDATA[<strong>Let op:</strong> Het wijzigen van de template kan als gevolg hebben dat je inhoud op een andere plaats staat niet langer getoond wordt.]]></translation>
@@ -427,6 +467,7 @@
         <translation language="fr"><![CDATA[<strong>Avertissement:</strong> Changer le template peut causer des problèmes de position ou d'affichage du contenu existant.]]></translation>
         <translation language="hu"><![CDATA[<strong>Figyelmeztetés:</strong> A megváltozott sablon másik helyre mutat vagy nem létezik.]]></translation>
         <translation language="es"><![CDATA[<strong>Atención:</strong> Cambiar la plantilla puede hacer que el contenido existente esté en otro lugar o que ya no se muestre.]]></translation>
+		<translation language="lt"><![CDATA[<strong>Dėmesio:</strong> Pakeitus šabloną gali sutrikti esamo turinio atvaizdavimas, jo gali neberodyti arba jis gali būti perkeltas.]]></translation>
       </item>
       <item type="message" name="WidgetAttached">
         <translation language="nl"><![CDATA[De widget <strong>%1$s</strong> is gekoppeld aan deze sectie.]]></translation>
@@ -438,6 +479,7 @@
         <translation language="fr"><![CDATA[Le widget <strong>%1$s</strong> est rattaché à cette section.]]></translation>
         <translation language="hu"><![CDATA[A(z) <strong>%1$s</strong> widget csatolva a szekcióhoz.]]></translation>
         <translation language="es"><![CDATA[El widget <strong>%1$s</strong> is attached to this section.]]></translation>
+		<translation language="lt"><![CDATA[Valdiklis <strong>%1$s</strong> priskirtas šiam skyriui.]]></translation>
       </item>
       <item type="error" name="CantAdd2Blocks">
         <translation language="nl"><![CDATA[Het is onmogelijk om 2 (of meer) modules aan dezelfde pagina te koppelen.]]></translation>
@@ -449,6 +491,7 @@
         <translation language="fr"><![CDATA[Il n'est pas possible de lier 2 modules (ou plus) à la même page.]]></translation>
         <translation language="hu"><![CDATA[Nem lehet összekapcsolni 2 (vagy több) modult ugyanazon az oldalon.]]></translation>
         <translation language="es"><![CDATA[No es posible enlazar 2 (o más) más modulos a la misma pagina.]]></translation>
+		<translation language="lt"><![CDATA[Negalima priskirti0 2(arba daugiau) blokus tam pačiam puslapiui.]]></translation>
       </item>
       <item type="error" name="CantBeMoved">
         <translation language="nl"><![CDATA[Pagina kan niet verplaatst worden.]]></translation>
@@ -460,6 +503,7 @@
         <translation language="fr"><![CDATA[La page ne peut pas être déplacée.]]></translation>
         <translation language="hu"><![CDATA[Az oldalt nem lehet áthelyezni.]]></translation>
         <translation language="es"><![CDATA[La página no puede ser movida.]]></translation>
+		<translation language="lt"><![CDATA[Puslapio perkelti negalima.]]></translation>
       </item>
       <item type="error" name="HomeCantHaveBlocks">
         <translation language="nl"><![CDATA[Je kan geen modules aan de homepage koppelen.]]></translation>
@@ -471,6 +515,7 @@
         <translation language="fr"><![CDATA[Vous ne pouvez pas lier un module à la homepage.]]></translation>
         <translation language="hu"><![CDATA[Nem kapcsolható össze a modul a honlappal.]]></translation>
         <translation language="es"><![CDATA[No puedes vincular un módulo a la página principal.]]></translation>
+		<translation language="lt"><![CDATA[Jūs negalite susieti modulį su pagrindiniu puslapiu.]]></translation>
       </item>
     </pages>
   </backend>
